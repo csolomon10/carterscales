@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --accent: #00e67a;
+  --accent-light: #00ff88;
+  --bg: #050505;
+  --surface: #0f0f0f;
+  --card: #141414;
+  --border: #1a1a1a;
+  --text-primary: #ffffff;
+  --text-secondary: #888888;
+  --text-muted: #555555;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #050505;
+  color: #ffffff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #0a0a0a;
+}
+::-webkit-scrollbar-thumb {
+  background: #1f1f1f;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #2a2a2a;
+}
+
+/* Selection highlight */
+::selection {
+  background: rgba(0, 230, 122, 0.18);
+  color: #ffffff;
+}
+
+@layer utilities {
+  .text-gradient {
+    background: linear-gradient(135deg, #00e67a 0%, #00ff88 60%, #a3e635 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .text-gradient-white {
+    background: linear-gradient(135deg, #ffffff 0%, #cccccc 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .bg-grid {
+    background-image: linear-gradient(rgba(0, 230, 122, 0.04) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(0, 230, 122, 0.04) 1px, transparent 1px);
+    background-size: 60px 60px;
+  }
+
+  .glow-accent {
+    box-shadow: 0 0 40px rgba(0, 230, 122, 0.25);
+  }
+
+  .glow-accent-sm {
+    box-shadow: 0 0 20px rgba(0, 230, 122, 0.15);
+  }
+
+  .card-base {
+    @apply bg-[#0f0f0f] border border-[#1a1a1a] rounded-xl;
+    transition: border-color 0.3s ease, background-color 0.3s ease;
+  }
+
+  .card-base:hover {
+    border-color: rgba(0, 230, 122, 0.2);
+    background-color: #111111;
+  }
+
+  .section-tag {
+    @apply inline-flex items-center gap-2 text-[#00e67a] text-xs font-semibold tracking-widest uppercase mb-4;
+  }
+
+  .section-heading {
+    @apply text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight;
+  }
+
+  .section-sub {
+    @apply text-gray-400 text-lg leading-relaxed max-w-2xl;
+  }
+}
