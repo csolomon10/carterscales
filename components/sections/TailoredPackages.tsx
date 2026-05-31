@@ -61,6 +61,18 @@ const packages = [
     ],
     highlight: false,
   },
+  {
+    name: 'Growth Strategy',
+    tagline: 'For clinics that want a clear roadmap before investing in marketing.',
+    includes: [
+      'Growth audits',
+      'Competitor analysis',
+      'Patient acquisition strategy',
+      'AI opportunity mapping',
+      'Marketing roadmap creation',
+    ],
+    highlight: false,
+  },
 ]
 
 export default function TailoredPackages() {
