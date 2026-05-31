@@ -81,7 +81,7 @@ export default function FinalCTA() {
           transition={{ delay: 0.32 }}
           className="text-gray-600 text-sm mt-6"
         >
-          Typically a 30-minute call. No hard sell.
+          15-minute Growth Audit. Identify missed growth opportunities.
         </motion.p>
       </div>
     </section>
