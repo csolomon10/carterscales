@@ -143,7 +143,7 @@ export default function TailoredPackages() {
 
               {/* REPLACE: Update with your actual Calendly booking link */}
               <a
-                href="https://calendly.com/carterscales/audit"
+                href="https://calendly.com/cartersolomon1128/get-your-free-growth-audit"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`group inline-flex items-center justify-center gap-2 w-full py-3 rounded-xl text-sm font-semibold transition-all duration-200 ${

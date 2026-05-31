@@ -77,7 +77,7 @@ export default function AuditSection() {
 
             {/* REPLACE: Update with your actual Calendly booking link */}
             <a
-              href="https://calendly.com/carterscales/audit"
+              href="https://calendly.com/cartersolomon1128/get-your-free-growth-audit"
               target="_blank"
               rel="noopener noreferrer"
               className="group inline-flex items-center gap-2.5 px-7 py-3.5 bg-[#00e67a] text-black font-bold rounded-xl hover:bg-[#00ff88] transition-all duration-200 shadow-[0_0_25px_rgba(0,230,122,0.3)] hover:shadow-[0_0_40px_rgba(0,230,122,0.45)] text-sm"

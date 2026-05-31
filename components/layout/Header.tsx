@@ -57,7 +57,7 @@ export default function Header() {
         {/* Desktop CTA */}
         {/* REPLACE: Update this Calendly link with your actual booking URL */}
         <a
-          href="https://calendly.com/carterscales/audit"
+          href="https://calendly.com/cartersolomon1128/get-your-free-growth-audit"
           target="_blank"
           rel="noopener noreferrer"
           className="hidden md:inline-flex items-center gap-2 px-5 py-2.5 bg-[#00e67a] text-black text-sm font-semibold rounded-lg hover:bg-[#00ff88] transition-all duration-200 shadow-[0_0_20px_rgba(0,230,122,0.25)] hover:shadow-[0_0_30px_rgba(0,230,122,0.4)]"
@@ -98,7 +98,7 @@ export default function Header() {
               ))}
               {/* REPLACE: Update this Calendly link with your actual booking URL */}
               <a
-                href="https://calendly.com/carterscales/audit"
+                href="https://calendly.com/cartersolomon1128/get-your-free-growth-audit"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-2 inline-flex items-center justify-center px-5 py-3 bg-[#00e67a] text-black text-sm font-semibold rounded-lg hover:bg-[#00ff88] transition-colors"

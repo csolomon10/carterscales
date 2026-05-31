@@ -114,7 +114,7 @@ export default function Contact() {
               </p>
               {/* REPLACE: Update with your actual Calendly booking link */}
               <a
-                href="https://calendly.com/carterscales/audit"
+                href="https://calendly.com/cartersolomon1128/get-your-free-growth-audit"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-[#00e67a] text-sm font-medium hover:gap-3 transition-all duration-200"
