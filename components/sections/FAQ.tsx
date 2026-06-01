@@ -9,32 +9,32 @@ const faqs = [
   {
     question: 'What types of clinics do you work with?',
     answer:
-      'We work with aesthetic clinics and appearance-improvement businesses — including med spas, men\'s aesthetic clinics, hair restoration clinics, plastic surgery clinics, wellness clinics, laser clinics, skin clinics, and any business focused on helping people improve how they look. If your business books consultations or appointments in the aesthetics space, we can likely help.',
+      'We work with aesthetic clinics and appearance-improvement businesses, including med spas, men\'s aesthetic clinics, hair restoration clinics, plastic surgery clinics, wellness clinics, laser clinics, skin clinics, and any business focused on helping people improve how they look. If your business books consultations or appointments in the aesthetics space, we can likely help.',
   },
   {
     question: 'Do I need to buy a full package?',
     answer:
-      'No. Every clinic has different needs. Some need better ads. Some need a better website. Some need their follow-up fixed. We build scoped packages around what your clinic actually needs — you don\'t pay for services that aren\'t relevant to your situation. The free audit helps us determine exactly where to start.',
+      'No. Every clinic has different needs. Some need better ads. Some need a better website. Some need their follow-up fixed. We build scoped packages around what your clinic actually needs, so you don\'t pay for services that aren\'t relevant to your situation. The free audit helps us determine exactly where to start.',
   },
   {
     question: 'Can you help if I already run ads?',
     answer:
-      'Yes. A lot of clinics already run ads but aren\'t happy with the results. Common problems include weak creative, poor targeting, missing retargeting, no proper landing pages, or slow follow-up killing the leads that do come in. We can audit what you\'re currently running and identify the specific improvements that will move the needle.',
+      'Yes. A lot of clinics already run ads but aren\'t happy with the results. Common problems include weak creative, poor targeting, no retargeting, missing landing pages, or slow follow-up that lets good leads go cold. We can audit what you\'re currently running and identify the specific improvements that will make a difference.',
   },
   {
     question: 'Do you build websites too?',
     answer:
-      'Yes, we can build or redesign websites as part of a package. More often, we do conversion optimization on existing sites — improving the copy, calls-to-action, booking flow, and structure to turn more visitors into booked consultations. A new site isn\'t always necessary. A better-converting one usually is.',
+      'Yes, we can build or redesign websites as part of a package. More often, we do conversion optimization on existing sites, improving the copy, calls-to-action, booking flow, and structure to turn more visitors into booked consultations. A new site isn\'t always necessary. A better-converting one usually is.',
   },
   {
     question: 'How does AI actually help my clinic\'s marketing?',
     answer:
-      'AI helps in practical ways — faster audience testing, automated lead follow-up so no one slips through the cracks, competitor intelligence, ad creative analysis, and smarter campaign decisions based on data. It doesn\'t replace the human side of your business. It makes the marketing system that feeds your business faster and more efficient.',
+      'AI helps in practical ways: faster audience testing, automated lead follow-up so no one slips through the cracks, competitor intelligence, ad creative analysis, and smarter campaign decisions based on data. It doesn\'t replace the human side of your business. It makes the marketing system that feeds your business faster and more efficient.',
   },
   {
     question: 'What is included in the free audit?',
     answer:
-      'The free AI Growth Audit covers your website conversion, calls-to-action, retargeting setup, follow-up systems, competitor positioning, lead form friction, and current ad creative. You\'ll leave with a clear picture of where leads are being lost and what the highest-leverage improvements are — regardless of whether you decide to work with us.',
+      'The free AI Growth Audit covers your website conversion, calls-to-action, retargeting setup, follow-up systems, competitor positioning, lead form friction, and current ad creative. You\'ll leave with a clear picture of where leads are being lost and what the highest-impact improvements are, whether you decide to work with us or not.',
   },
 ]
 

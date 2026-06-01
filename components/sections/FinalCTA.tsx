@@ -49,8 +49,8 @@ export default function FinalCTA() {
           className="text-gray-400 text-lg leading-relaxed max-w-2xl mx-auto mb-10"
         >
           Book a free AI Growth Audit and see where your clinic is losing leads, wasting ad spend,
-          or missing growth opportunities. You&apos;ll walk away with a clear picture — regardless
-          of whether we work together.
+          or missing growth opportunities. You&apos;ll walk away with a clear picture whether we
+          work together or not.
         </motion.p>
 
         <motion.div

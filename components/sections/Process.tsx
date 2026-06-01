@@ -20,13 +20,13 @@ const steps = [
     number: '03',
     title: 'Identify Where Leads Are Being Lost',
     description:
-      'Most clinics leak leads at specific, fixable points. We find them — whether it\'s ad targeting, landing pages, follow-up speed, or booking friction.',
+      'Most clinics leak leads at specific, fixable points. We find them, whether it\'s ad targeting, landing pages, follow-up speed, or booking friction.',
   },
   {
     number: '04',
     title: 'Build a Tailored AI-Powered Growth Plan',
     description:
-      'We put together a clear, prioritized growth plan based on your clinic\'s specific situation — not a generic template.',
+      'We put together a clear, prioritized growth plan based on your clinic\'s specific situation, not a generic template.',
   },
   {
     number: '05',
@@ -63,7 +63,7 @@ export default function Process() {
             to Growing Clinic
           </h2>
           <p className="section-sub mx-auto text-center">
-            A clear, structured process — not guesswork. Here&apos;s exactly how we go from understanding your
+            A clear, structured process, not guesswork. Here&apos;s exactly how we go from understanding your
             current situation to building systems that fill your appointment calendar.
           </p>
         </motion.div>

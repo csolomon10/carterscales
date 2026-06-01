@@ -63,7 +63,7 @@ export default function Hero() {
           transition={{ delay: 0.28 }}
           className="text-sm text-gray-500 max-w-xl mx-auto mb-11 leading-relaxed"
         >
-          Custom growth systems built around what your clinic actually needs — so you&apos;re not paying for services that don&apos;t move the needle.
+          Custom growth systems built around what your clinic actually needs, so you&apos;re not paying for services that won&apos;t grow your bookings.
         </motion.p>
 
         {/* CTA buttons */}

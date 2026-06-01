@@ -83,7 +83,7 @@ export default function Contact() {
                   icon: Mail,
                   label: 'Email',
                   // REPLACE: Update with your actual email address
-                  value: 'hello@carterscales.com',
+                  value: 'carter@carterscales.com',
                 },
                 {
                   icon: Globe,

@@ -1,7 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { Brain, Target, Package, Building2, Link } from 'lucide-react'
+import { Brain, Target, Package, Building2, Link, UserCheck } from 'lucide-react'
 import { fadeUp, fadeLeft, fadeRight, stagger, scaleIn } from '@/lib/animations'
 
 const reasons = [
@@ -9,7 +9,7 @@ const reasons = [
     icon: Brain,
     title: 'Built for the New Era of AI Marketing',
     description:
-      'We use AI tools throughout the entire growth system — not as a buzzword, but as a practical advantage in targeting, speed, and follow-up.',
+      'We use AI tools throughout the entire growth system for a real operational advantage in targeting, speed, and follow-up. Not as a selling point. As a genuine edge.',
   },
   {
     icon: Target,
@@ -27,13 +27,19 @@ const reasons = [
     icon: Building2,
     title: 'Built Specifically for Aesthetic Clinics',
     description:
-      'We understand the patient journey, the consultation model, and the competitive dynamics of the aesthetics space in a way generalist agencies don\'t.',
+      'We understand the patient journey, the consultation process, and the competitive pressures of the aesthetics market in a way generalist agencies don\'t.',
   },
   {
     icon: Link,
-    title: 'Ads, Conversion, Automation & Strategy — Connected',
+    title: 'Ads, Conversion, Automation & Strategy, All Connected',
     description:
       'Most agencies do one thing. We connect all the pieces so leads don\'t get lost between your ad and your booking form.',
+  },
+  {
+    icon: UserCheck,
+    title: 'Direct Access, No Middlemen',
+    description:
+      'Work directly with Carter from strategy to execution. No account managers, no communication gaps, and no getting passed around between departments.',
   },
 ]
 

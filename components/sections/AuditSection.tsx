@@ -67,11 +67,11 @@ export default function AuditSection() {
             </h2>
             <p className="text-gray-400 text-base leading-relaxed mb-8">
               The free AI Growth Audit isn&apos;t a generic checklist call. We go through your
-              actual online presence — ads, website, follow-up systems, and competitive landscape —
+              actual online presence (ads, website, follow-up systems, and competitive landscape)
               and identify exactly where you&apos;re losing leads and wasting budget.
             </p>
             <p className="text-gray-400 text-base leading-relaxed mb-10">
-              You walk away knowing the specific problems and how to fix them — whether you work
+              You walk away knowing the specific problems and how to fix them, whether you work
               with us or not.
             </p>
 

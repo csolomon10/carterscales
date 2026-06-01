@@ -68,7 +68,7 @@ export default function WhoWeHelp() {
           </h2>
           <p className="section-sub mx-auto text-center">
             We don&apos;t work with every type of business. We specialize in aesthetic clinics and
-            appearance-improvement brands — because deep niche focus produces better results.
+            appearance-improvement brands, because deep niche focus produces better results.
           </p>
         </motion.div>
 
@@ -106,7 +106,7 @@ export default function WhoWeHelp() {
           viewport={{ once: true }}
           className="text-center text-gray-600 text-sm mt-10"
         >
-          If your business helps people improve how they look — we can help you grow it.
+          If your business helps people improve how they look, we can help you grow it.
         </motion.p>
       </div>
     </section>

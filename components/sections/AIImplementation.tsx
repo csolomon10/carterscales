@@ -13,7 +13,7 @@ const aiCapabilities = [
   {
     icon: MessageSquare,
     title: 'Faster Follow-Up',
-    description: 'Automated sequences reach leads within minutes — before they book a competitor.',
+    description: 'Automated sequences reach leads within minutes, before they call a competitor.',
   },
   {
     icon: Search,
@@ -60,15 +60,14 @@ export default function AIImplementation() {
               <span className="text-gradient">Your Clinic Shouldn&apos;t Be Behind.</span>
             </h2>
             <p className="text-gray-400 text-base leading-relaxed mb-6">
-              Most aesthetic clinics are still running ads the way they did five years ago — same
-              creatives, same targeting, same manual follow-up. Meanwhile, AI is giving faster-moving
-              businesses a real edge.
+              Most aesthetic clinics are still running ads the way they did five years ago: same
+              creatives, same targeting, same manual follow-up. Meanwhile, the clinics that adapt
+              are pulling ahead.
             </p>
             <p className="text-gray-400 text-base leading-relaxed">
-              CarterScales integrates AI tools across every stage of your marketing — from how you
-              identify audiences to how you follow up with leads. The goal isn&apos;t to replace the
-              human side of your clinic. It&apos;s to make the marketing system smarter, faster, and
-              more profitable.
+              CarterScales integrates AI tools across every stage of your marketing, from identifying
+              audiences to following up with leads. The goal isn&apos;t to replace the human side of
+              your clinic. It&apos;s to make the marketing system faster, smarter, and more profitable.
             </p>
           </motion.div>
 
